@@ -5,5 +5,6 @@ def connecting(a):
 
 # main goes to connecting
 a = 2
-print(connecting(a))
+if a>2:
+  print(connecting(a))
 
