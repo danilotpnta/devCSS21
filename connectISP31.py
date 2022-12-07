@@ -4,4 +4,6 @@ def connecting(a):
   return x*x
 
 # main goes to connecting
-print(connecting(2))
+a = 2
+print(connecting(a))
+
